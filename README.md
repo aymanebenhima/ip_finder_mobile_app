@@ -17,7 +17,7 @@ https://ipinfo.io/170.186.160.93/geo
     "postal": "53045",
     "timezone":
     "America/Chicago",
-    "readme": "https://ipinfo.io/missingauth&quot;
+    "readme": "https://ipinfo.io/missingauth&quot;"
 }
 ```
 
